@@ -1,4 +1,4 @@
-# Yahoo! Fantasy Football Projection Analysis
+# Fantasy Football Capstone Project
 
 
-### Data Science Capstone project using Yahoo! Fantasy Football API
+### Data Science Capstone project on Fantasy Football
