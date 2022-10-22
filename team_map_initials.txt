@@ -1,0 +1,12 @@
+{
+'Zero to Hero': 'RS',
+'Davantes Inferno': 'ES',
+'Sir Crosbys Neighborhood': 'KL',
+'A Football Team': 'EL',
+'Bama Boys Bandwagon': 'JC',
+'Lights Kamara Action!': 'CW',
+'Steak Night at Truffonis': 'RW',
+'Carlys Team': 'CC',
+'RBs R Us': 'BK',
+'Kevins Dawg Pound': 'KT'
+}
